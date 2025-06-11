@@ -14,8 +14,8 @@ While this is a foundational example, it highlights my capacity to work with spa
 ## How to Run This Project
 1.  **Clone the repository to your local machine:**
     ```bash
-    git clone [https://github.com/YourGitHubUsername/YourRepositoryName.git](https://github.com/YourGitHubUsername/YourRepositoryName.git)
-    cd YourRepositoryName
+    git clone [https://github.com/Vsakhj/3d_visualizer/tree/main](https://github.com/YourGitHubUsername/YourRepositoryName.git)
+    cd 3d_visualizer
     ```
 2.  **Install the required Python libraries:**
     ```bash
